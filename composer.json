@@ -1,0 +1,18 @@
+{
+    "name": "aymeric45/elite",
+    "authors": [
+        {
+            "name": "Aymeric Le Corre",
+            "email": "aymeric45@hotmail.com"
+        }
+    ],
+    "require": {
+      "symfony/http-client": "^6"
+    },
+    "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Elite\\": "inc/Elite/"
+    }
+  }
+}
